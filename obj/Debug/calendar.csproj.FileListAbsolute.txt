@@ -1,0 +1,13 @@
+C:\Users\yehxi\source\repos\calendar\bin\Debug\calendar.exe.config
+C:\Users\yehxi\source\repos\calendar\bin\Debug\calendar.exe
+C:\Users\yehxi\source\repos\calendar\bin\Debug\calendar.pdb
+C:\Users\yehxi\source\repos\calendar\obj\Debug\calendar.csproj.AssemblyReference.cache
+C:\Users\yehxi\source\repos\calendar\obj\Debug\calendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\yehxi\source\repos\calendar\obj\Debug\calendar.Awork.resources
+C:\Users\yehxi\source\repos\calendar\obj\Debug\calendar.DailyPlan.resources
+C:\Users\yehxi\source\repos\calendar\obj\Debug\calendar.Form1.resources
+C:\Users\yehxi\source\repos\calendar\obj\Debug\calendar.Properties.Resources.resources
+C:\Users\yehxi\source\repos\calendar\obj\Debug\calendar.csproj.GenerateResource.cache
+C:\Users\yehxi\source\repos\calendar\obj\Debug\calendar.csproj.CoreCompileInputs.cache
+C:\Users\yehxi\source\repos\calendar\obj\Debug\calendar.exe
+C:\Users\yehxi\source\repos\calendar\obj\Debug\calendar.pdb

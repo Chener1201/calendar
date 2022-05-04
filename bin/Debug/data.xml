@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<PlanData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Job>
+    <Planitem>
+      <date>2022-05-01T21:00:23.0178099+07:00</date>
+      <Job>Nhi cute</Job>
+      <FromTime>
+        <X>4</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>5</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </Planitem>
+    <Planitem>
+      <date>2022-05-02T21:00:23.0178099+07:00</date>
+      <Job>chuan bi do an C#</Job>
+      <FromTime>
+        <X>5</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>6</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </Planitem>
+    <Planitem>
+      <date>2022-05-03T21:00:23.0178099+07:00</date>
+      <Job>Lam do an C#</Job>
+      <FromTime>
+        <X>7</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>10</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>DONE</Status>
+    </Planitem>
+    <Planitem>
+      <date>2022-05-04T21:00:23.0178099+07:00</date>
+      <Job>Lam do an C# va ban giao</Job>
+      <FromTime>
+        <X>12</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>15</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </Planitem>
+  </Job>
+</PlanData> <date>2022-05-04T00:00:00</date>
+      <Job>alo alo alo</Job>
+      <FromTime>
+        <X>7</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>8</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </Planitem>
+  </Job>
+</PlanData>
